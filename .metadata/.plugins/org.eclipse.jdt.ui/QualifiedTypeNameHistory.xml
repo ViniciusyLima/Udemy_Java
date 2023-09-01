@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="entites.Retangulo"/>
+    <fullyQualifiedTypeName name="entites.Funcionario"/>
+    <fullyQualifiedTypeName name="entites.ConversaoDeDolar"/>
+    <fullyQualifiedTypeName name="entites.Product"/>
+    <fullyQualifiedTypeName name="entites.Banco"/>
+    <fullyQualifiedTypeName name="Entidade.Conta"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+</qualifiedTypeNameHistroy>

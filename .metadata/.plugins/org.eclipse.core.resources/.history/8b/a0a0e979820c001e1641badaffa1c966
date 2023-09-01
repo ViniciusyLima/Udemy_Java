@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Ola Mundo, Dia: ");
+		int valor = (10);
+		double valorq = (10,151416);
+		System.out.print(valor);
+	}
+
+}
