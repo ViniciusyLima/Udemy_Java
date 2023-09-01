@@ -25,8 +25,12 @@ public class exer4 {
 		}
 		
 		double media = soma / vect.length;
-		System.out.println("Valores: ");
-		System.out.printf("Soma: %.2f\n", soma);
+		
+		System.out.printf("Valores: ");
+		for (int i=0;i<vect.length;i++) {
+			System.out.printf("%.1f, ", vect[i]);
+		}
+		System.out.printf("\nSoma: %.2f\n", soma);
 		System.out.printf("Media: %.2f", media);
 		
 		sc.close();	
