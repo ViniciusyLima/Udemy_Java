@@ -10,4 +10,6 @@
     <fullyQualifiedTypeName name="Entidade.Conta"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entidades.pessoa"/>
+    <fullyQualifiedTypeName name="entidades.Aluguel"/>
 </qualifiedTypeNameHistroy>

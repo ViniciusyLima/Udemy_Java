@@ -10,11 +10,7 @@ public class exer7 {
 			System.out.println(vect[i]);
 		}
 		
-		System.out.println("-------------------");
 		
-		for (String obj : vect) {
-			System.out.println(obj);
-		}
 		
 		
 		
