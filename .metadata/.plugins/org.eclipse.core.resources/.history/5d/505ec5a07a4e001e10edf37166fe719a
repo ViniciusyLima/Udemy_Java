@@ -1,0 +1,38 @@
+package aula88;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class aula9 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		List<Integer> list = new ArrayList<>();
+		
+		System.out.println("Quantos funcionarios serao registrados?");
+		int n = sc.nextInt();
+		
+		for (int i=1;i<=n;i++) {
+		System.out.println("Funcionario #" + i);
+		System.out.println("ID: ");
+		int id = sc.nextInt();
+		sc.nextLine();
+		System.out.println("Nome: ");
+		String nome = sc.nextLine();
+		System.out.println("Salario: ");
+		double salario = sc.nextDouble();
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		sc.close();
+	}
+
+}
