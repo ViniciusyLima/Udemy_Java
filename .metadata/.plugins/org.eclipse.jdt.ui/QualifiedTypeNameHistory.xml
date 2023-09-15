@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="entites.Retangulo"/>
     <fullyQualifiedTypeName name="entites.Funcionario"/>
     <fullyQualifiedTypeName name="entites.ConversaoDeDolar"/>
-    <fullyQualifiedTypeName name="entites.Product"/>
     <fullyQualifiedTypeName name="entites.Banco"/>
     <fullyQualifiedTypeName name="Entidade.Conta"/>
     <fullyQualifiedTypeName name="entidades.pessoa"/>
@@ -22,11 +21,14 @@
     <fullyQualifiedTypeName name="entites.Worker"/>
     <fullyQualifiedTypeName name="entites.HourContract"/>
     <fullyQualifiedTypeName name="entites.Department"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entites.Comment"/>
     <fullyQualifiedTypeName name="entites.Post"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="entites.Product"/>
+    <fullyQualifiedTypeName name="entites.OrderItem"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>

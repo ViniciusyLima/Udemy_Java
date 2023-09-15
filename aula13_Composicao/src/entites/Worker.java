@@ -11,7 +11,6 @@ public class Worker {
 	private String name;
 	private WorkerLevel level;
 	private double baseSalary;
-	
 	private Department department;
 	private List<HourContract> contracts = new ArrayList<>();
 	
