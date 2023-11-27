@@ -1,10 +1,8 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="entites.Product"><rhs name\="entites.Product"/></lhs><lhs name\="entites.Banco"><rhs name\="entites.Banco"/></lhs><lhs name\="Entidade.Conta"><rhs name\="Entidade.Conta"/></lhs><lhs name\="entidades.pessoa"><rhs name\="entidades.pessoa"/></lhs><lhs name\="entidades.Aluguel"><rhs name\="entidades.Aluguel"/></lhs><lhs name\="entidades.Funcionario"><rhs name\="entidades.Funcionario"/></lhs><lhs name\="java.lang.Enum"><rhs name\="entites.enums.OrderStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="entites.enums.OrderStatus"/></lhs><lhs name\="entites.enums.OrderStatus"><rhs name\="entites.enums.OrderStatus"/></lhs><lhs name\="entites.Worker"><rhs name\="entites.Worker"/></lhs><lhs name\="entites.Department"><rhs name\="entites.Department"/></lhs><lhs name\="entites.HourContract"><rhs name\="entites.HourContract"/></lhs><lhs name\="entites.Post"><rhs name\="entites.Post"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="entities.Account"><rhs name\="entities.BusinessAccount"/></lhs><lhs name\="entites.Employee"><rhs name\="entites.OutsourcedEmployee"/><rhs name\="entites.Employee"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Locale"/></lhs></history>
 content_assist_number_of_computers=12
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
-org.eclipse.jdt.internal.ui.navigator.layout=2
-org.eclipse.jdt.internal.ui.navigator.librariesnode=true
 org.eclipse.jdt.ui.formatterprofiles.version=23
 spelling_locale_initialized=true
 typefilter_migrated_2=true

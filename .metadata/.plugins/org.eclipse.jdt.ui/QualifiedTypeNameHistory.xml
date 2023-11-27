@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="entites.Retangulo"/>
-    <fullyQualifiedTypeName name="entites.Funcionario"/>
-    <fullyQualifiedTypeName name="entites.ConversaoDeDolar"/>
-    <fullyQualifiedTypeName name="entites.Banco"/>
-    <fullyQualifiedTypeName name="Entidade.Conta"/>
-    <fullyQualifiedTypeName name="entidades.pessoa"/>
-    <fullyQualifiedTypeName name="entidades.Aluguel"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="entidades.Funcionario"/>
-    <fullyQualifiedTypeName name="java.time.Instant"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
-    <fullyQualifiedTypeName name="java.time.ZoneId"/>
-    <fullyQualifiedTypeName name="entites.enums.OrderStatus"/>
-    <fullyQualifiedTypeName name="entites.enums.WorkerLevel"/>
-    <fullyQualifiedTypeName name="entites.Worker"/>
-    <fullyQualifiedTypeName name="entites.HourContract"/>
-    <fullyQualifiedTypeName name="entites.Department"/>
-    <fullyQualifiedTypeName name="entites.Comment"/>
-    <fullyQualifiedTypeName name="entites.Post"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="entites.Product"/>
-    <fullyQualifiedTypeName name="entites.OrderItem"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="entites.OutsourcedEmployee"/>
+    <fullyQualifiedTypeName name="entites.Employee"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entities.BusinessAccount"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entites.enums.Color"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
