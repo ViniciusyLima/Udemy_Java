@@ -21,18 +21,19 @@
     <fullyQualifiedTypeName name="boardgame.Board"/>
     <fullyQualifiedTypeName name="boardgame.BoardException"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="chess.Color"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
-    <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
+    <fullyQualifiedTypeName name="chess.Color"/>
+    <fullyQualifiedTypeName name="chess.ChessPiece"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
 </qualifiedTypeNameHistroy>
