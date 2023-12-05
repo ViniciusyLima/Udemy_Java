@@ -41,5 +41,19 @@
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="mode.services.BrazilTaxService"/>
+    <fullyQualifiedTypeName name="mode.services.RentalServices"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="model.entitites.CarRental"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="mode.services.TaxService"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="entities.Contract"/>
+    <fullyQualifiedTypeName name="services.onlinePaymentService"/>
+    <fullyQualifiedTypeName name="services.ContractService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="entities.Installment"/>
+    <fullyQualifiedTypeName name="services.PaypalService"/>
 </qualifiedTypeNameHistroy>
