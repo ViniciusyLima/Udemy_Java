@@ -56,4 +56,6 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="entities.Installment"/>
     <fullyQualifiedTypeName name="services.PaypalService"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
 </qualifiedTypeNameHistroy>
