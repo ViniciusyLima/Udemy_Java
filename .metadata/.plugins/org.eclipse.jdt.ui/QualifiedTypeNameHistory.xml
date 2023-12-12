@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entites.enums.Color"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="model.entities.Reservation"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
@@ -22,7 +18,6 @@
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
     <fullyQualifiedTypeName name="chess.Color"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
@@ -34,7 +29,6 @@
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="mode.services.BrazilTaxService"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="entities.LogEntry"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="applications.MyComparator"/>
+    <fullyQualifiedTypeName name="Util.ProductPredicate"/>
+    <fullyQualifiedTypeName name="util.PriceUpdate"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="util.ProductService"/>
 </qualifiedTypeNameHistroy>
