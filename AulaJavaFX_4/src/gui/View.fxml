@@ -8,15 +8,15 @@
 
 <AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ViewController">
    <children>
-      <Label layoutX="55.0" layoutY="47.0" text="Calcular Soma">
+      <Label layoutX="45.0" layoutY="43.0" text="Calcular Soma">
          <font>
             <Font name="System Bold" size="15.0" />
          </font>
       </Label>
-      <TextField layoutX="55.0" layoutY="84.0" promptText="Primeiro número" />
-      <TextField layoutX="55.0" layoutY="125.0" promptText="Segundo número" />
-      <Button layoutX="55.0" layoutY="173.0" mnemonicParsing="false" text="Soma" />
-      <Label layoutX="55.0" layoutY="227.0" text="Resultado =" />
-      <Label layoutX="130.0" layoutY="227.0" />
+      <Label layoutX="45.0" layoutY="216.0" text="Resultado da soma =" />
+      <TextField fx:id="txtNumero1" layoutX="45.0" layoutY="84.0" promptText="Primeiro numero" />
+      <TextField fx:id="txtNumero2" layoutX="45.0" layoutY="125.0" promptText="Segundo numero" />
+      <Button fx:id="btSoma" layoutX="45.0" layoutY="172.0" mnemonicParsing="false" onAction="#onBtSumAction" text="Soma" />
+      <Label fx:id="labelResultado" layoutX="166.0" layoutY="216.0" />
    </children>
 </AnchorPane>

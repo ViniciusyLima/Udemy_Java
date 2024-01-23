@@ -5,7 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Alert.AlertType;
 
-// AÇÃO AO CLICAR NO BUTTON, MENSAGEM: 'Click'
+// ABRIR UMA JANELA DE ALERTA COM AÇÃO BUTTON
 public class ViewController {
 
 	@FXML
